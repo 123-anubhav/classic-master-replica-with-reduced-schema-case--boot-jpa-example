@@ -1,0 +1,17 @@
+postmapping : localhost:8080/saving-data
+
+{
+  "routeId": 119703,
+  "routeNo": "100776",
+  "routeName": "TARODA TO BRAHMANGAON",
+  "rtId": 2,
+  "fromStopId": 80262,
+  "tillStopId": 80083,
+  "routeType": "MO",
+  "intraStateDistance": 3.0,
+  "interStateDistance": 0.0,
+  "routekm": 3.0,
+  "updownInd": "U",
+  "plCd": "CT",
+  "mdDate": "2023-04-20T11:51:19"
+}
